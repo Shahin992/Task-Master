@@ -35,7 +35,7 @@ const AddATaskModal = ({ showModal, setShowModal, refetch }) => {
     // console.log(newTask);
     axios
       .post(
-        "https://task-management-server-snowy-seven.vercel.app/tasks",
+        "https://task-management-server-main-ruby.vercel.app/tasks",
         newTask
       )
       .then((res) => {

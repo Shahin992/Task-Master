@@ -1,7 +1,3 @@
-# live
-# https://taskmaster-dnd.netlify.app/
-# Client:  https://github.com/shohaib1996/task-management-client
-# Server: https://github.com/shohaib1996/task-management-server
 
 # featur
 # 1 User Authentication with Firebase: 

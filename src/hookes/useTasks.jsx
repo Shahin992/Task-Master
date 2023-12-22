@@ -10,7 +10,7 @@ const useTasks = () => {
     queryKey: ["tasks", user?.email],
     queryFn: async () => {
       const res = await axios.get(
-        `https://task-management-server-snowy-seven.vercel.app/tasks?email=${user?.email}`
+        `https://task-management-server-main-ruby.vercel.app/tasks?email=${user?.email}`
       );
       const data = await res.data;
       return data;
