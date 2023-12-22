@@ -3,7 +3,7 @@ import { useRef } from "react";
 import emailjs from "@emailjs/browser";
 import Lottie from "lottie-react";
 import contact_us from "../../../public/contact_us.json";
-import Footer from "../../Shared/Footer.local/Footer";
+import Footer from "../../Shared/Footer/Footer";
 import Navbar from "../../Shared/Navbar/Navbar/Navbar";
 
 const ContactUs = () => {

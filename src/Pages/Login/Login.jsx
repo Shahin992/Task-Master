@@ -2,7 +2,7 @@ import { useForm } from "react-hook-form";
 import login_animation from "../../../public/login_animation.json";
 import Lottie from "lottie-react";
 import { useContext } from "react";
-import { AuthContext } from "../../AuthProvider.local/AuthProvider";
+import { AuthContext } from "../../AuthProvider/AuthProvider";
 import { Link, useLocation, useNavigate } from "react-router-dom";
 import toast from "react-hot-toast";
 import { FaGithub } from "react-icons/fa6";

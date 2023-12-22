@@ -6,7 +6,7 @@ import { useForm } from "react-hook-form";
 import { Link, useLocation, useNavigate } from "react-router-dom";
 import axios from "axios";
 import { useContext } from "react";
-import { AuthContext } from "../../AuthProvider.local/AuthProvider";
+import { AuthContext } from "../../AuthProvider/AuthProvider";
 import { FaGithub } from "react-icons/fa6";
 
 const image_hosting_key = import.meta.env.VITE_IMAGE_HOSTING_KEY;

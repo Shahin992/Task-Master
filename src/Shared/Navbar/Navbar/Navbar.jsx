@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 import NavbarLinks from "../NavbarLinks/NavbarLinks";
 import toast from "react-hot-toast";
 import { useContext } from "react";
-import { AuthContext } from "../../../AuthProvider.local/AuthProvider";
+import { AuthContext } from "../../../AuthProvider/AuthProvider";
 import { Tooltip } from "react-tooltip";
 
 const Navbar = () => {
