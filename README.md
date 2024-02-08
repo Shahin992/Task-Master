@@ -5,8 +5,8 @@
 # 1 User Authentication with Firebase: 
 Ensures secure and reliable user login and registration. Firebase authentication provides a seamless and secure experience, allowing users to access their tasks confidently and safely.
 
-# 2 Intuitive Drag-and-Drop Interface: 
-Enhances user experience by allowing easy prioritization and reorganization of tasks. This feature makes managing tasks more efficient and user-friendly, enabling quick adjustments to daily or project-based task lists.
+# 2 Drag-and-Drop Interface: 
+Enhances user experience by allowing easy prioritization and reorganization of tasks to drug and drop between to do, on going and complete. This feature makes managing tasks more efficient and user-friendly, enabling quick adjustments to daily or project-based task lists.
 
 # 3 Personalized Dashboard for Task Tracking: 
 Each user has access to a personalized dashboard, where they can easily view, manage, and track their tasks. This central hub for task management helps users stay organized and focused on their priorities.
